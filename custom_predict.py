@@ -8,8 +8,8 @@ from PIL import Image
 
 clip_model='ViT-L-14/openai'
 # clip_model='ViT-H-14/laion2b_s32b_b79k'
-blip_model='blip-base'
-# blip_model='blip-large'
+# blip_model='blip-base'
+blip_model='blip-large'
 # blip_model='blip2-2.7b'
 device = "cuda"
 
