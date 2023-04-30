@@ -1,0 +1,10 @@
+Wide-angle
+Standard
+Short telephoto
+Medium telephoto
+Long telephoto
+Prime
+Zoom
+Fisheye
+Tilt-shift
+Macro

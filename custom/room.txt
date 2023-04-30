@@ -1,0 +1,11 @@
+Living room
+Kitchen
+Dining room
+Bedroom
+Bathroom
+Laundry room
+Garage
+Basement
+Attic
+Outside
+Studio
